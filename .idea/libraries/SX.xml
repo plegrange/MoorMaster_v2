@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SX">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SX.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
